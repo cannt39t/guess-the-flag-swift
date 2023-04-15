@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
     var timerLine: UIView?
     var timer: Timer?
-    var timeToThink = 3
+    var timeToThink = 5
     
     override func viewDidLoad() {
         super.viewDidLoad()
